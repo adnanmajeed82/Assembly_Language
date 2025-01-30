@@ -1,0 +1,59 @@
+1.define assembly language
+ans: assembly language is low
+level programming language that is translated directly
+into machine code. which is a computer processor can execute
+2.Define advantages of assembly ? 
+ans: Low level memory management assembly language provides
+   direct acccess to hardware components allowing for 
+ efficient memory management. 
+3. Performance optimization?
+ by writing code that is tailored to the specific hardware 
+assembly language can faster in executions times 
+4. Hardware Manipulation?
+assembly language is used to directly interact with hardware
+components such as registers, I/O ports, and memory mapped I/O
+5. Define Usages of Operating System?
+ans: assembly language is used to write low level system code
+such as bootloader device driver, and kernel code.
+6. what is embedded system?
+ans: assembly lanauge is used in embedded systesm such as 
+micro controller , robots, and other IOT devices.
+7. what is reverse engineering?
+ans: assembly language is used to analzye and understand the
+behavior of compiled executables.
+8. Malware Analysis?
+ans: assembly language is used to analyze and understand 
+behavior of malware. 
+9. Define Instructions?
+ans: assembly language instructions are translated directly
+into machine code.
+10. wHAT IS REGISTER?
+ANS: registers are small amounts of memory built into the CPU
+11. define memory addressing ?
+ans: assembly language uses memory addressing modes to access
+memory locations 
+12. define flags?
+ans: flags are used to indicate the status of CPU
+13.  Benefits for programmers 
+    LEARNING ASSEMBLY language helps programmers understand
+how computer works at a fundamental level
+14. why use CPU registers?
+ans: faster access : register provides faster access to data
+compared to main memory as they are located within the cpu
+REDUCED MEMORY ACCCESS: 
+by storing frequently used data in registers the cpu reduces
+the number of memory accessing, result in improved performance
+15. EFFICIENT DATA TRANSFER?
+ANS:  registers facilitate efficient data transfer between
+different parts of CPU such ALU and memory
+16. define types of registers?
+   a. General purpose registers
+   b. index registers
+   c. stack registers
+   d. status registers
+17. How Register works?
+ans: loading : CPU loads from into a register
+storing: the CPU stores data from a register to memory
+manipulating: the CPU performs ALU and logical operations
+to store data. transferring: the CPU transfer data between
+registers. 
